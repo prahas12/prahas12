@@ -98,11 +98,11 @@ I work at the intersection of hardware architecture and applied signal processin
 </tr>
 <tr>
 <td width="50%">
-<p><b><a href="https://github.com/prahas12/3D-MIMO-MUSIC-Beamforming">3D MIMO MUSIC Beamforming</a></b></p>
-<p>Spatial spectrum estimation using the MUSIC algorithm on a 3D MIMO antenna array. Simulation and analysis in MATLAB.</p>
+<p><b><a href="https://github.com/prahas12/FMCW-TDM-MIMO-Radar-3D-DOA-Estimation-and-Beamforming">FMCW TDM-MIMO Radar 3D DOA Estimation</a></b></p>
+<p>FMCW TDM-MIMO radar simulation for range-Doppler processing, CA-CFAR detection, and 3D DOA estimation using Bartlett, MVDR, and MUSIC.</p>
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076a8?style=flat-square" />
-  <img src="https://img.shields.io/badge/RF_Systems-4a4a4a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Radar_Systems-4a4a4a?style=flat-square" />
   <img src="https://img.shields.io/badge/Signal_Processing-4a4a4a?style=flat-square" />
 </p>
 </td>

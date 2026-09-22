@@ -78,7 +78,7 @@ I work at the intersection of hardware architecture and applied signal processin
 <table>
 <tr>
 <td width="50%">
-<h4><a href="https://github.com/prahas12/5-Stage-Pipelined-RISC-V-Processor-RV32I">5-Stage Pipelined RISC-V Processor</a></h4>
+<p><b><a href="https://github.com/prahas12/5-Stage-Pipelined-RISC-V-Processor-RV32I">5-Stage Pipelined RISC-V Processor</a></b></p>
 <p>Fully synthesizable RV32I pipelined CPU with hazard detection and data forwarding. Implemented in SystemVerilog targeting Xilinx FPGAs.</p>
 <p>
   <img src="https://img.shields.io/badge/SystemVerilog-005c8a?style=flat-square" />
@@ -87,7 +87,7 @@ I work at the intersection of hardware architecture and applied signal processin
 </p>
 </td>
 <td width="50%">
-<h4><a href="https://github.com/prahas12/Hardware-Vision-Accelerator">Hardware Vision Accelerator</a></h4>
+<p><b><a href="https://github.com/prahas12/Hardware-Vision-Accelerator">Hardware Vision Accelerator</a></b></p>
 <p>FPGA-deployed hardware accelerator for computer vision pipelines. Optimized for high-throughput image processing in Verilog.</p>
 <p>
   <img src="https://img.shields.io/badge/Verilog-005c8a?style=flat-square" />
@@ -98,7 +98,7 @@ I work at the intersection of hardware architecture and applied signal processin
 </tr>
 <tr>
 <td width="50%">
-<h4><a href="https://github.com/prahas12/3D-MIMO-MUSIC-Beamforming">3D MIMO MUSIC Beamforming</a></h4>
+<p><b><a href="https://github.com/prahas12/3D-MIMO-MUSIC-Beamforming">3D MIMO MUSIC Beamforming</a></b></p>
 <p>Spatial spectrum estimation using the MUSIC algorithm on a 3D MIMO antenna array. Simulation and analysis in MATLAB.</p>
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076a8?style=flat-square" />
@@ -107,7 +107,7 @@ I work at the intersection of hardware architecture and applied signal processin
 </p>
 </td>
 <td width="50%">
-<h4><a href="https://github.com/prahas12/riscv-single-cycle-cpu">RISC-V Single Cycle CPU</a></h4>
+<p><b><a href="https://github.com/prahas12/riscv-single-cycle-cpu">RISC-V Single Cycle CPU</a></b></p>
 <p>A clean, readable single-cycle RISC-V processor implementation. Designed as an architectural reference and learning tool.</p>
 <p>
   <img src="https://img.shields.io/badge/Verilog-005c8a?style=flat-square" />
@@ -118,7 +118,7 @@ I work at the intersection of hardware architecture and applied signal processin
 </tr>
 <tr>
 <td width="50%">
-<h4><a href="https://github.com/prahas12/ADAS-MATLAB-Simulink">ADAS System Simulation</a></h4>
+<p><b><a href="https://github.com/prahas12/ADAS-MATLAB-Simulink">ADAS System Simulation</a></b></p>
 <p>Model-based design and behavioral simulation for Advanced Driver Assistance Systems using MATLAB/Simulink.</p>
 <p>
   <img src="https://img.shields.io/badge/Simulink-0076a8?style=flat-square" />
@@ -126,7 +126,7 @@ I work at the intersection of hardware architecture and applied signal processin
 </p>
 </td>
 <td width="50%">
-<h4><a href="https://github.com/prahas12/EEG_Seizure_Detection">EEG Seizure Detection</a></h4>
+<p><b><a href="https://github.com/prahas12/EEG_Seizure_Detection">EEG Seizure Detection</a></b></p>
 <p>Biomedical DSP pipeline for automated seizure detection from EEG signals using frequency domain analysis and classification.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square" />

@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Prahas%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer&descAlignY=58&descSize=18&descColor=e0e0e0&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=180&section=header&text=Prahas%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn)
 
 <a href="https://www.prahas.site/">
   <img src="https://img.shields.io/badge/Portfolio-prahas.site-0a3d62?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -16,7 +16,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=7EB8D4&center=true&vCenter=true&multiline=false&width=600&lines=RTL+Design+%7C+FPGA+Architecture+%7C+RISC-V+Processor+Design;Digital+Signal+Processing+%7C+RF+%26+Antenna+Systems;Embedded+Systems+%7C+Hardware+Accelerators)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7EB8D4&center=true&vCenter=true&width=650&lines=RTL+Design+%7C+FPGA+Architecture+%7C+RISC-V+Processor+Design;Digital+Signal+Processing+%7C+RF+and+Antenna+Systems;Embedded+Systems+%7C+Hardware+Accelerators)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@
 ```
 SYSTEM  : Engineering Workspace
 ENGINEER: Prahas Sharma
-DOMAIN  : Electronics & Communication Engineering
+DOMAIN  : Electronics and Communication Engineering
 FOCUS   : Digital Hardware | RTL Design | DSP | RF Systems | Embedded Systems
 STATUS  : Building, experimenting, and shipping
 ```
@@ -42,7 +42,7 @@ I work at the intersection of hardware architecture and applied signal processin
 <tr>
 <td width="50%">
 
-**Hardware & Architecture**
+**Hardware and Architecture**
 - RTL design in SystemVerilog and Verilog
 - RISC-V processor design (RV32I)
 - FPGA prototyping on Artix-7
@@ -153,7 +153,7 @@ I work at the intersection of hardware architecture and applied signal processin
 </td>
 </tr>
 <tr>
-<td><b>EDA & Design</b></td>
+<td><b>EDA and Design</b></td>
 <td>
   <img src="https://img.shields.io/badge/Xilinx_Vivado-d9531e?style=flat-square" />
   <img src="https://img.shields.io/badge/KiCad-314cb6?style=flat-square" />
@@ -193,8 +193,10 @@ I work at the intersection of hardware architecture and applied signal processin
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prahas12&theme=react-dark&hide_border=true&area=true)
+<img src="https://github-readme-stats.vercel.app/api?username=prahas12&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7eb8d4&icon_color=7eb8d4&text_color=ffffff" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahas12&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7eb8d4&text_color=ffffff" height="160" />
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=100&section=footer)

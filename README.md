@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=180&section=header&text=Prahas&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3d2b1f&height=180&section=header&text=Prahas&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
 
 <br>
 
 <p><b>Electronics and Communication Engineer</b></p>
 
 <a href="https://www.prahas.site/">
-  <img src="https://img.shields.io/badge/Portfolio-prahas.site-0a3d62?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-prahas.site-3d2b1f?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/prahas-sharma/">
@@ -20,7 +20,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7EB8D4&center=true&vCenter=true&width=650&lines=RTL+Design+%7C+FPGA+Architecture+%7C+RISC-V+Processor+Design;Digital+Signal+Processing+%7C+RF+and+Antenna+Systems;Embedded+Systems+%7C+Hardware+Accelerators)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=D4A574&center=true&vCenter=true&width=650&lines=RTL+Design+%7C+FPGA+Architecture+%7C+RISC-V+Processor+Design;Digital+Signal+Processing+%7C+RF+and+Antenna+Systems;Embedded+Systems+%7C+Hardware+Accelerators)](https://git.io/typing-svg)
 
 </div>
 
@@ -195,4 +195,4 @@ I work at the intersection of hardware architecture and applied signal processin
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3d2b1f&height=100&section=footer" width="100%" />

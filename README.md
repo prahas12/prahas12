@@ -35,16 +35,27 @@
 
 ### [04] ENGINEERING TOOLKIT
 **Hardware & Architecture**<br>
-`SystemVerilog` `Verilog` `RISC-V` `FPGA` `Artix-7`
+![HDL: SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-005c8a?style=flat-square)
+![HDL: Verilog](https://img.shields.io/badge/HDL-Verilog-005c8a?style=flat-square)
+![Arch: RISC-V](https://img.shields.io/badge/Arch-RISC--V-b32629?style=flat-square)
+![Target: FPGA](https://img.shields.io/badge/Target-FPGA-333333?style=flat-square)
+![Silicon: Artix-7](https://img.shields.io/badge/Silicon-Artix--7-333333?style=flat-square)
 
 **Design & Simulation**<br>
-`MATLAB` `Simulink` `HFSS` `KiCad` `Xilinx Vivado`
+![Math: MATLAB](https://img.shields.io/badge/Math-MATLAB-0076a8?style=flat-square)
+![Sim: Simulink](https://img.shields.io/badge/Sim-Simulink-0076a8?style=flat-square)
+![EM: HFSS](https://img.shields.io/badge/EM-HFSS-7a0016?style=flat-square)
+![PCB: KiCad](https://img.shields.io/badge/PCB-KiCad-314cb6?style=flat-square)
+![EDA: Vivado](https://img.shields.io/badge/EDA-Xilinx_Vivado-d9531e?style=flat-square)
 
 **Embedded & Software**<br>
-`ESP32` `Arduino` `Python`
+![MCU: ESP32](https://img.shields.io/badge/MCU-ESP32-e7352c?style=flat-square)
+![MCU: Arduino](https://img.shields.io/badge/MCU-Arduino-00979d?style=flat-square)
+![Lang: Python](https://img.shields.io/badge/Lang-Python-3776ab?style=flat-square)
 
 **Applied Domains**<br>
-`DSP` `RF / Antenna Engineering`
+![Domain: DSP](https://img.shields.io/badge/Domain-DSP-4a4a4a?style=flat-square)
+![Domain: RF / Antenna Engineering](https://img.shields.io/badge/Domain-RF_/_Antenna_Engineering-4a4a4a?style=flat-square)
 
 <br>
 

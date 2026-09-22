@@ -1,6 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=180&section=header&text=Prahas%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=180&section=header&text=Prahas&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
+
+<br>
+
+<p><b>Electronics and Communication Engineer</b></p>
 
 <a href="https://www.prahas.site/">
   <img src="https://img.shields.io/badge/Portfolio-prahas.site-0a3d62?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -24,7 +28,7 @@
 
 ```
 SYSTEM  : Engineering Workspace
-ENGINEER: Prahas Sharma
+ENGINEER: Prahas
 DOMAIN  : Electronics and Communication Engineering
 FOCUS   : Digital Hardware | RTL Design | DSP | RF Systems | Embedded Systems
 STATUS  : Building, experimenting, and shipping
@@ -34,7 +38,7 @@ STATUS  : Building, experimenting, and shipping
 
 ### Architecture Overview
 
-I work at the intersection of hardware architecture and applied signal processing. My work spans RTL design on FPGAs, full custom RISC-V processor implementations, RF system simulation, and embedded system development. I approach engineering problems with rigor — from logic gate to algorithm, from signal to system.
+I work at the intersection of hardware architecture and applied signal processing. My work spans RTL design on FPGAs, full custom RISC-V processor implementations, RF system simulation, and embedded system development. I approach engineering problems with rigor, from logic gate to algorithm, from signal to system.
 
 <br>
 
@@ -191,12 +195,4 @@ I work at the intersection of hardware architecture and applied signal processin
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prahas12&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7eb8d4&icon_color=7eb8d4&text_color=ffffff" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahas12&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7eb8d4&text_color=ffffff" height="160" />
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=100&section=footer" width="100%" />

@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=200&section=header&text=Prahas%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer&descAlignY=58&descSize=18&descColor=7eb8d4&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Prahas%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer&descAlignY=58&descSize=18&descColor=e0e0e0&animation=fadeIn)
 
 <a href="https://www.prahas.site/">
   <img src="https://img.shields.io/badge/Portfolio-prahas.site-0a3d62?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -193,8 +193,8 @@ I work at the intersection of hardware architecture and applied signal processin
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prahas12&bg_color=0d1117&color=7eb8d4&line=0a3d62&point=7eb8d4&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prahas12&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
